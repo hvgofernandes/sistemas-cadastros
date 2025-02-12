@@ -24,4 +24,6 @@ deletar uma pessoa, listar todas as pessoas cadastradas, etc.
 - 11/02/2025 - Inicio do desafio.
 1. Logo no primeiro turno dia, consegui realizar os 2 primeiros passos, embora acho que poderia ter feito de maneira
 mais otimizada.
-2. 
+2. Finalizando o dia de estudo/projeto, terminei os 3 primeiros passados, com ajuda do GPT consegui otimizar o código e
+os métodos.
+
