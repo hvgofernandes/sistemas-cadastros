@@ -3,7 +3,3 @@
 3 - Cadastrar nova pergunta no formulário
 4 - Deletar pergunta do formulário
 5 - Pesquisar usuário por nome ou idade ou email
-7 - did it work?
-8 - pergunta teste, pls work
-9 - pergunta teste 2, pls work no space
-10 - pergunta teste3, agora vai!!
